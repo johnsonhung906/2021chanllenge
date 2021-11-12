@@ -1,0 +1,2 @@
+XXXX = Bonk
+Hint: you can find the Bonk directory in /TrashFolder
